@@ -120,5 +120,18 @@
             "assets/thirdparties/mirror1.malwaredomains.com/files/justdomains"
         ],
         "supportURL": "https://www.malwaredomains.com/"
-    }
+    },
+    	"plowe-0": {
+		"content": "filters",
+		"group": "multipurpose",
+		"updateAfter": 13,
+		"off": true,
+		"title": "Peter Lowe’s Ad and tracking server list",
+		"contentURL": [
+			"https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext",
+			"assets/thirdparties/pgl.yoyo.org/as/serverlist.txt",
+			"assets/thirdparties/pgl.yoyo.org/as/serverlist"
+		],
+		"supportURL": "https://pgl.yoyo.org/adservers/"
+	}
 }
